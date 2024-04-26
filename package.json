@@ -1,0 +1,14 @@
+{
+  "name": "imageprocess",
+  "version": "1.0.0",
+  "description": "批量处理图片",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gm": "^1.25.0"
+  }
+}
